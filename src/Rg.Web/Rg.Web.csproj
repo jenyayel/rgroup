@@ -1440,6 +1440,8 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Timeline\Item.cshtml" />
     <Content Include="Views\User\Page.cshtml" />
+    <None Include="Properties\PublishProfiles\rgroupj - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\rgroupj - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
