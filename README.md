@@ -1,2 +1,2 @@
 # rgroup
-Azure tour developer immersion
+[Azure tour](https://twitter.com/hashtag/azuretour) developer immersion
