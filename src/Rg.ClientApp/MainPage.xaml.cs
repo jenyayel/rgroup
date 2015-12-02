@@ -1,4 +1,10 @@
-﻿using System;
+﻿using Windows.UI.Xaml;
+using Microsoft.Azure.AppService;
+using Windows.Security.Authentication.Web;
+using Newtonsoft.Json;
+using Rg.ClientApp.Models;
+using Windows.Storage;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -25,6 +31,11 @@ namespace Rg.ClientApp
         public MainPage()
         {
             this.InitializeComponent();
+        }
+
+        private void loginButton_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
